@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michel (sounds like: "Me + Shell")</h1>
-<h3 align="center">A passionate Backtend and GraphDBs, developer from Brazil.</h3>
+<h3 align="center">A passionate Backend and GraphDBs, developer from Brazil.</h3>
+
+<p>Easy Contact via: https://keybase.io/micheldiz</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micheldiz&label=Profile%20views&color=0e75b6&style=flat" alt="micheldiz" /> </p>
 
