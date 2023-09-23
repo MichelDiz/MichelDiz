@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michel (sounds like: "Me + Shell")</h1>
-<h3 align="center">A passionate Backend and GraphDBs, developer from Brazil.</h3>
+<h3 align="center">Passionate for Backend and GraphDBs, developer from Brazil.</h3>
 
 <p>Easy Contact via: https://keybase.io/micheldiz</p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Go Lang**
 
-- 🤝 I’m looking for help with **Graphs!**
+- 🤝 I’m looking to help with **Graphs!**
 
 - 💬 Ask me about **Dgraph, GraphQL**
 
