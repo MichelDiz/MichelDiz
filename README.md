@@ -18,4 +18,8 @@
 
 - 💬 Ask me about **Dgraph, GraphQL, Graph Modeling**
 
+<h3>Currently:</h3>
+
+I'm learning Japanese just for fun. 🇯🇵
+
 <p>&nbsp;<img align="center" src="assets/MyGithub.png" alt="micheldiz stack" /></p>
